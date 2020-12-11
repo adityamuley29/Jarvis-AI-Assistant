@@ -104,7 +104,7 @@ if __name__ == "__main__":
             try:
                 speak("What you want to say?")
                 content = takeCommand()
-                to = "adityamuley48@gmail.com"
+                to = "to_email-id" #replace "to_email-id" with receivers email-id
                 sendEmail(to , content)
                 speak("Email has been send successfuly!")
             except Exception as e:
