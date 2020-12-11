@@ -1,2 +1,2 @@
-email_id = "adimuley@gmail.com"
-password = "adi*muley"
+email_id = "Your-Email_id"
+password = "Your-Password"
